@@ -3,5 +3,5 @@
 Minha primeira página utilizando JavaScript. O contador foi desenvolvido nas aulas do curso de JavaScript através do bootcamp Decola Tech 3a edição na plataforma Digital Innovation One junto com Avanade. <br>
 Para acessá-lo, <a href="https://amandavsadev.github.io/contador-DIO/" target="_blank"> Clique aqui</a>!</li>
 
-<!-- <img align="center" alt="contador" src="contador.png"> -->
+<img align="center" alt="contador" src="contador.png">
 
