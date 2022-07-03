@@ -5,25 +5,25 @@ html{
     height: 713px;
 }
 
-h1 {
+h1{
     margin-top: 15px;
     margin-bottom: auto;
     font-size: 30pt;
 }
 
-p {
+p{
     margin-top: 10px;
     font-size: 14pt;
 }
 
-body {
+body{
     background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%);
     display: flex;
     justify-content: center;
     margin-top: 16%;
 }
 
-main {
+main{
     font-family: 'Poppins', sans-serif;
     background-color: rgba(255, 255, 255, 0.675);
     border-radius: 10px;
@@ -36,7 +36,7 @@ main {
     flex-direction: column;
 }
 
-button {
+button{
     margin-bottom: 15px;
     height: 40px;
     width: 40px;
@@ -49,18 +49,18 @@ button {
     text-align: center;
 }
 
-button:hover {
+button:hover{
     cursor: pointer;
     background-color: #fdbb2d82;
     transition: 0.3s all;
 }
 
-#counter {
+#counter{
     display: flex;
     align-items: baseline;;
 }
 
-#currentNumber {
+#currentNumber{
     align-items: center;
     margin: 0 20px;
     font-size: 16px;
